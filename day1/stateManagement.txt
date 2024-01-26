@@ -1,0 +1,13 @@
+// so today we are going to learn abt the statemanagement in the webDeb
+
+souseState hook returns two value count and a function to change the value adn accepts a initial value
+
+//note
+
+do not use hooks inside the loops, conditions, nested function.
+
+useState hook let us with the tate that does not need to have a object
+//whereas in the classes it is necessary to be a objeck
+
+
+useEffect
