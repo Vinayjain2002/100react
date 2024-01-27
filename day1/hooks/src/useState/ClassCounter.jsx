@@ -20,7 +20,7 @@ class ClassCounter extends Component{
         <button onClick={this.incrementCount}>
           Click to increment
         </button>
-        <p>Counter: {this.state.counter}</p>
+        <p>Counter: {this.state.counter}</p> 
       </div>
     );
   }
